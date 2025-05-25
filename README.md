@@ -55,6 +55,8 @@ For this project:
 
 ```bash
 git remote set-url origin git@github.com-sergnio:sergnio/sergn.io-v2.git
+git config user.email sergnioa@gmail.com
+git config user.name sergnio           
 ```
 
 This ensures Git uses the personal SSH key for all operations.
